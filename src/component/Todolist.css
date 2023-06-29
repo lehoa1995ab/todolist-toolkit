@@ -1,0 +1,23 @@
+.h2{
+    text-align: center;
+    justify-content: center;
+}
+.add {
+    /* align-items:center;
+    justify-content: center;
+    margin:20px 400px;
+    width:400px !important; */
+    margin:auto;
+
+
+    }
+    .select{
+        font-size: 2cap;
+        text-align: center;
+        height:5vh;
+        margin: auto;
+    }
+    .container{
+        display: flex;
+
+    }

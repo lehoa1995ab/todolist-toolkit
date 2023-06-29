@@ -1,0 +1,13 @@
+
+.App{
+  background-color: hsl(0, 4%, 95%);
+  padding: 20px;
+  justify-content: center;
+  align-items:center ;
+  border-radius :1rem;
+  box-shadow: rgba(36, 87, 153,.1
+  ) -1px -1px 1px inset;
+  width: 70%;
+  margin: auto;
+ 
+}

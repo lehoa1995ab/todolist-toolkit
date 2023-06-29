@@ -1,0 +1,18 @@
+.todotask{
+   display: flex;
+   justify-content: space-between;
+   padding:.5rem 1rem;
+  margin-top: 20px;
+  background-color: hsl(0, 23%, 94%);
+ text-align: center;
+}
+.checkbox{
+   margin-right: 10px;
+   margin-top: 25px;
+   height: fit-content;
+   width: auto!important;
+}
+.button{
+   border: none !important;
+   margin-top: 18px;
+}
